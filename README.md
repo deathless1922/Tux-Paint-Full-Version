@@ -240,4 +240,4 @@ This repository serves as the official landing page for Tux Paint. The software 
 **Get the most recent version of Tux Paint today!**
 
 ---
-**Last updated:** 2026-09-20 22:10:48 UTC
+**Last updated:** 2026-09-21 00:38:55 UTC
